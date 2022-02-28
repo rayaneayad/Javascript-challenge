@@ -25,7 +25,5 @@ if (winD){
 else {
   document.write("Les Koalas sont vainceurs !!!");
   document.write('<br/>');
-  document.write(parseInt(resultDauphins) + (' - ') + parseInt(resultKoalas));
+  document.write(parseInt(resultDauphins) + (' - ') + parseInt(resultKoalas) );
 }
-
-
